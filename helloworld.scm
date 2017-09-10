@@ -1,5 +1,5 @@
 (begin
-  (define test 5)
+  (define test 6)
   (display test)
   (newline))
 
